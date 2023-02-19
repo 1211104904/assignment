@@ -24,6 +24,8 @@ g++ currentfile.cpp folder1\currentfile3 folder2\code.cpp ......
 
 ## User Manual
 
+!!!DO NOTE THAT WE ARE USING COMPLETELY NEW SOURCE CODES FOR OUR FINAL SUBMISSION WHICH IS FILE NAME "currentfile.cpp"!!!
+
 Please provide the user manual on how to use your program.
 1. Click on 'run' to start the game.
 2. Default game setting will appear and it will display the board rows, board columns and number of zombie. 
