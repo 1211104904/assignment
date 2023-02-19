@@ -44,7 +44,7 @@ For example:
 Emeer Aneeq Bin Mohamad Jeffery
 
 1. Alien movement
-2. Gameboard 
+2. Gameboard generation
 3. Change direction of arrow in gameboard
 4. Game quit function
 5. Accept only valid inputs
@@ -57,12 +57,13 @@ Fateena Binti Faizal
 
 1. Game commands
 2. Game characters and attributes 
-3. Game attributes for zombies are initialised with random numbers.
+3. Game attributes for zombies are initialised with random numbers
+4. Attempts on save and load functions
 
 Nur Ayu Farisha Binti Hamdan @ Hood
 
-1. Gameboard
-2. Customize game settings 
+1. Gameboard design
+2. Customisable game settings 
 3. Alien in the center of gameboard 
 
 ## Problems Encountered & Solutions
