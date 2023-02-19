@@ -46,6 +46,12 @@ Emeer Aneeq Bin Mohamad Jeffery
 1. Alien movement
 2. Gameboard 
 3. Change direction of arrow in gameboard
+4. Game quit function
+5. Accept only valid inputs
+6. Randomisation of game objects on the board
+7. Alien cannot move past the border
+8. Random number generator
+9. Game start menu
 
 Fateena Binti Faizal
 
